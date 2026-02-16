@@ -1,957 +1,1136 @@
-{
-  "nodes": [
-    {
-      "label": "Stefan Cooper",
-      "x": 785.158935546875,
-      "y": 15.66031265258789,
-      "id": "13",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Mingji Dai",
-      "x": -29.281105041503906,
-      "y": -206.22325134277344,
-      "id": "14",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Yang Yang",
-      "x": 283.93829345703125,
-      "y": 235.85069274902344,
-      "id": "44",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Jamal Musaev",
-      "x": -25.15161895751953,
-      "y": 0.3899402618408203,
-      "id": "30",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Donna Blackmond",
-      "x": 95.27627563476562,
-      "y": 227.52496337890625,
-      "id": "8",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Kerry Gilmore",
-      "x": 730.870361328125,
-      "y": 97.75865173339844,
-      "id": "19",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Laura K.G. Ackerman-Biegasiewicz",
-      "x": -147.24412536621094,
-      "y": 138.20643615722656,
-      "id": "4",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Shannon Stahl",
-      "x": 118.1943588256836,
-      "y": -190.83627319335938,
-      "id": "39",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Jin-Quan Yu",
-      "x": -172.7706756591797,
-      "y": -318.1237487792969,
-      "id": "45",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "John Montgomery",
-      "x": 181.985595703125,
-      "y": -299.8003234863281,
-      "id": "29",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Milad Abolhasani",
-      "x": 707.204345703125,
-      "y": -229.0812225341797,
-      "id": "3",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Gabe Gomes",
-      "x": -151.59979248046875,
-      "y": 191.49566650390625,
-      "id": "21",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Ampofo Darko",
-      "x": 490.90625,
-      "y": -223.51580810546875,
-      "id": "15",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Andre Isaacs",
-      "x": 590.945556640625,
-      "y": -293.1056213378906,
-      "id": "24",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Ken Houk",
-      "x": 438.5735168457031,
-      "y": 13.798402786254883,
-      "id": "23",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Liela Romero",
-      "x": 19.939849853515625,
-      "y": -328.8596496582031,
-      "id": "36",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "David Sherman",
-      "x": 233.4528350830078,
-      "y": -360.884765625,
-      "id": "38",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Song Lin",
-      "x": 184.2652130126953,
-      "y": 352.6301574707031,
-      "id": "26",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Melissa Ramirez",
-      "x": 728.099609375,
-      "y": -108.82302856445312,
-      "id": "33",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Ming-Yu Ngai",
-      "x": -238.29629516601562,
-      "y": 55.339359283447266,
-      "id": "32",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Michael Coleman",
-      "x": 389.794677734375,
-      "y": -287.10333251953125,
-      "id": "12",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Erik Alexanian",
-      "x": 480.77789306640625,
-      "y": -66.08142852783203,
-      "id": "46",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Uttam Tambar",
-      "x": 642.1878051757812,
-      "y": -27.9376220703125,
-      "id": "41",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Christopher Uyeda",
-      "x": 725.74462890625,
-      "y": 208.35202026367188,
-      "id": "42",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Christopher Jones",
-      "x": 395.0257873535156,
-      "y": 344.6546325683594,
-      "id": "25",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Abbvie",
-      "x": 243.81234741210938,
-      "y": 42.745174407958984,
-      "id": "0",
-      "attributes": {},
-      "color": "#F68140",
-      "size": 6.0
-    },
-    {
-      "label": "Simon Blakey",
-      "x": 623.378662109375,
-      "y": 280.5835876464844,
-      "id": "9",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Huw M. L. Davies",
-      "x": 396.073974609375,
-      "y": -168.2160186767578,
-      "id": "16",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "David Nagib",
-      "x": 46.913002014160156,
-      "y": 79.07820129394531,
-      "id": "31",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Colleen Scott",
-      "x": -178.5204315185547,
-      "y": -252.2728271484375,
-      "id": "37",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Scott J. Miller",
-      "x": -28.413711547851562,
-      "y": 300.7729187011719,
-      "id": "28",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Ryan Cammarota",
-      "x": 613.2451782226562,
-      "y": -164.76309204101562,
-      "id": "10",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Tim Cernak",
-      "x": 149.6510772705078,
-      "y": -247.85000610351562,
-      "id": "11",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Sidney Wilkerson-Hill",
-      "x": -254.6795654296875,
-      "y": -57.768592834472656,
-      "id": "43",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Frances Arnold",
-      "x": 409.34210205078125,
-      "y": 124.79789733886719,
-      "id": "5",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Kyle F. Biegasiewicz",
-      "x": 434.60870361328125,
-      "y": 290.72650146484375,
-      "id": "6",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Sarah Reisman",
-      "x": -234.9709014892578,
-      "y": 266.4353332519531,
-      "id": "34",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Hans Renata",
-      "x": 163.29629516601562,
-      "y": -138.7189178466797,
-      "id": "35",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Lilly",
-      "x": 156.1650848388672,
-      "y": 34.914527893066406,
-      "id": "1",
-      "attributes": {},
-      "color": "#F68140",
-      "size": 6.0
-    },
-    {
-      "label": "Tianning Diao",
-      "x": -257.0772705078125,
-      "y": 2.5238189697265625,
-      "id": "17",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Abigail Doyle",
-      "x": 598.5938110351562,
-      "y": 141.59230041503906,
-      "id": "18",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Novartis",
-      "x": 190.5768585205078,
-      "y": -25.15838623046875,
-      "id": "2",
-      "attributes": {},
-      "color": "#F68140",
-      "size": 6.0
-    },
-    {
-      "label": "Brian Stoltz",
-      "x": -178.71754455566406,
-      "y": -197.06192016601562,
-      "id": "40",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Osvaldo Gutierrez",
-      "x": 608.1172485351562,
-      "y": 39.241451263427734,
-      "id": "20",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Jessica Hoover",
-      "x": -254.5532684326172,
-      "y": -121.49533081054688,
-      "id": "22",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "John Berry",
-      "x": 311.81268310546875,
-      "y": -228.35643005371094,
-      "id": "7",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    },
-    {
-      "label": "Peng Liu",
-      "x": -77.91190338134766,
-      "y": -112.29106903076172,
-      "id": "27",
-      "attributes": {},
-      "color": "#259BAA",
-      "size": 6.0
-    }
-  ],
-  "edges": [
-    {
-      "source": "30",
-      "target": "4",
-      "id": "282",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "14",
-      "target": "27",
-      "id": "248",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "30",
-      "target": "27",
-      "id": "279",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "35",
-      "target": "46",
-      "id": "284",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "15",
-      "target": "24",
-      "id": "250",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "30",
-      "target": "16",
-      "id": "278",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "2",
-      "target": "16",
-      "id": "244",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "20",
-      "target": "23",
-      "id": "262",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "4",
-      "target": "21",
-      "id": "245",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "17",
-      "target": "27",
-      "id": "257",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "5",
-      "target": "31",
-      "id": "299",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "0",
-      "target": "8",
-      "id": "234",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "41",
-      "target": "10",
-      "id": "287",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "18",
-      "target": "23",
-      "id": "260",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "21",
-      "target": "28",
-      "id": "263",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "11",
-      "target": "29",
-      "id": "295",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "27",
-      "target": "43",
-      "id": "271",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "0",
-      "target": "18",
-      "id": "235",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "16",
-      "target": "15",
-      "id": "251",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "5",
-      "target": "23",
-      "id": "298",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "0",
-      "target": "16",
-      "id": "238",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "6",
-      "target": "1",
-      "id": "291",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "29",
-      "target": "38",
-      "id": "297",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "10",
-      "target": "16",
-      "id": "247",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "27",
-      "target": "30",
-      "id": "268",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "27",
-      "target": "44",
-      "id": "270",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "16",
-      "target": "10",
-      "id": "252",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "18",
-      "target": "26",
-      "id": "259",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "1",
-      "target": "44",
-      "id": "243",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "0",
-      "target": "31",
-      "id": "236",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "0",
-      "target": "46",
-      "id": "241",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "39",
-      "target": "16",
-      "id": "286",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "30",
-      "target": "39",
-      "id": "281",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "33",
-      "target": "41",
-      "id": "283",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "27",
-      "target": "31",
-      "id": "275",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "0",
-      "target": "35",
-      "id": "237",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "36",
-      "target": "37",
-      "id": "285",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "27",
-      "target": "8",
-      "id": "272",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "27",
-      "target": "35",
-      "id": "274",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "22",
-      "target": "27",
-      "id": "264",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "6",
-      "target": "26",
-      "id": "289",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "20",
-      "target": "41",
-      "id": "261",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "0",
-      "target": "26",
-      "id": "239",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "46",
-      "target": "35",
-      "id": "288",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "11",
-      "target": "14",
-      "id": "293",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "30",
-      "target": "32",
-      "id": "280",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "11",
-      "target": "39",
-      "id": "294",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "16",
-      "target": "30",
-      "id": "253",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "0",
-      "target": "44",
-      "id": "240",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "1",
-      "target": "16",
-      "id": "242",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "16",
-      "target": "12",
-      "id": "254",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "27",
-      "target": "16",
-      "id": "267",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "16",
-      "target": "46",
-      "id": "255",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "15",
-      "target": "16",
-      "id": "249",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "26",
-      "target": "8",
-      "id": "266",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "16",
-      "target": "7",
-      "id": "256",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "27",
-      "target": "40",
-      "id": "269",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "18",
-      "target": "20",
-      "id": "258",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "11",
-      "target": "27",
-      "id": "292",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "9",
-      "target": "35",
-      "id": "246",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "23",
-      "target": "35",
-      "id": "265",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "27",
-      "target": "32",
-      "id": "273",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "28",
-      "target": "1",
-      "id": "276",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "28",
-      "target": "26",
-      "id": "277",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "6",
-      "target": "0",
-      "id": "290",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    },
-    {
-      "source": "11",
-      "target": "23",
-      "id": "296",
-      "attributes": {},
-      "color": "#c9a1c9",
-      "size": 1.0
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "author": "Abbvie",
+    "C": "",
+    "Node": 1,
+    "Edge": 9,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 2,
+    "author": "Eli Lilly",
+    "C": "",
+    "Node": 1,
+    "Edge": 19,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 3,
+    "author": "Novartis",
+    "C": "",
+    "Node": 1,
+    "Edge": 32,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 4,
+    "author": "Milad Abolhasani",
+    "C": "",
+    "Node": 1,
+    "Edge": 36,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 5,
+    "author": "Laura K.G. Ackerman-Biegasiewicz",
+    "C": "",
+    "Node": 1,
+    "Edge": 17,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 6,
+    "author": "Frances Arnold",
+    "C": "",
+    "Node": 1,
+    "Edge": 27,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 7,
+    "author": "Kyle F. Biegasiewicz",
+    "C": "",
+    "Node": 1,
+    "Edge": 45,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 8,
+    "author": "John Berry",
+    "C": "",
+    "Node": 2,
+    "Edge": 17,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 9,
+    "author": "Donna Blackmond",
+    "C": "",
+    "Node": 2,
+    "Edge": 45,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 10,
+    "author": "Simon Blakey",
+    "C": "",
+    "Node": 3,
+    "Edge": 17,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 11,
+    "author": "Ryan Cammarota",
+    "C": "",
+    "Node": 4,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 12,
+    "author": "Tim Cernak",
+    "C": "",
+    "Node": 5,
+    "Edge": 22,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 13,
+    "author": "Michael Coleman",
+    "C": "",
+    "Node": 6,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 14,
+    "author": "Stefan Cooper",
+    "C": "",
+    "Node": 7,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 15,
+    "author": "Mingji Dai",
+    "C": "",
+    "Node": 8,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 16,
+    "author": "Ampofo Darko",
+    "C": "",
+    "Node": 9,
+    "Edge": 1,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 17,
+    "author": "Huw M. L. Davies",
+    "C": "",
+    "Node": 10,
+    "Edge": 36,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 18,
+    "author": "Tianning Diao",
+    "C": "",
+    "Node": 11,
+    "Edge": 17,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 19,
+    "author": "Abigail Doyle",
+    "C": "",
+    "Node": 12,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 20,
+    "author": "Kerry Gilmore",
+    "C": "",
+    "Node": 13,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 21,
+    "author": "Osvaldo Gutierrez",
+    "C": "",
+    "Node": 14,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 22,
+    "author": "Gabe Gomes",
+    "C": "",
+    "Node": 15,
+    "Edge": 28,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 23,
+    "author": "Jessica Hoover",
+    "C": "",
+    "Node": 16,
+    "Edge": 17,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 24,
+    "author": "Ken Houk",
+    "C": "",
+    "Node": 16,
+    "Edge": 25,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 25,
+    "author": "Andre Isaacs",
+    "C": "",
+    "Node": 17,
+    "Edge": 16,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 26,
+    "author": "Christopher Jones",
+    "C": "",
+    "Node": 17,
+    "Edge": 11,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 27,
+    "author": "Song Lin",
+    "C": "",
+    "Node": 17,
+    "Edge": 3,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 28,
+    "author": "Peng Liu",
+    "C": "",
+    "Node": 17,
+    "Edge": 2,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 29,
+    "author": "Scott J. Miller",
+    "C": "",
+    "Node": 17,
+    "Edge": 1,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 30,
+    "author": "John Montgomery",
+    "C": "",
+    "Node": 17,
+    "Edge": 31,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 31,
+    "author": "Jamal Musaev",
+    "C": "",
+    "Node": 17,
+    "Edge": 29,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 32,
+    "author": "David Nagib",
+    "C": "",
+    "Node": 18,
+    "Edge": 28,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 33,
+    "author": "Ming-Yu Ngai",
+    "C": "",
+    "Node": 19,
+    "Edge": 21,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 34,
+    "author": "Melissa Ramirez",
+    "C": "",
+    "Node": 19,
+    "Edge": 27,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 35,
+    "author": "Sarah Reisman",
+    "C": "",
+    "Node": 19,
+    "Edge": 24,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 36,
+    "author": "Hans Renata",
+    "C": "",
+    "Node": 1,
+    "Edge": 47,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 37,
+    "author": "Liela Romero",
+    "C": "",
+    "Node": 20,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 38,
+    "author": "Colleen Scott",
+    "C": "",
+    "Node": 21,
+    "Edge": 42,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 39,
+    "author": "David Sherman",
+    "C": "",
+    "Node": 21,
+    "Edge": 24,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 40,
+    "author": "Shannon Stahl",
+    "C": "",
+    "Node": 22,
+    "Edge": 29,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 41,
+    "author": "Brian Stoltz",
+    "C": "",
+    "Node": 22,
+    "Edge": 5,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 42,
+    "author": "Uttam Tambar",
+    "C": "",
+    "Node": 23,
+    "Edge": 28,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 43,
+    "author": "Christopher Uyeda",
+    "C": "",
+    "Node": 24,
+    "Edge": 21,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 44,
+    "author": "Sidney Wilkerson-Hill",
+    "C": "",
+    "Node": 24,
+    "Edge": 19,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 45,
+    "author": "Yang Yang",
+    "C": "",
+    "Node": 24,
+    "Edge": 36,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 46,
+    "author": "Jin-Quan Yu",
+    "C": "",
+    "Node": 25,
+    "Edge": 16,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 47,
+    "author": "Erik Alexanian",
+    "C": "",
+    "Node": 26,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 48,
+    "author": "Amgen",
+    "C": "",
+    "Node": 27,
+    "Edge": 9,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 49,
+    "author": "BMS",
+    "C": "",
+    "Node": 27,
+    "Edge": 19,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 50,
+    "author": "Carbon Capture",
+    "C": "",
+    "Node": 27,
+    "Edge": 1,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 51,
+    "author": "Dow",
+    "C": "",
+    "Node": 28,
+    "Edge": 17,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 52,
+    "author": "Eastman Chemical",
+    "C": "",
+    "Node": 28,
+    "Edge": 31,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 53,
+    "author": "Genetech",
+    "C": "",
+    "Node": 28,
+    "Edge": 41,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 54,
+    "author": "Google Deepmind",
+    "C": "",
+    "Node": 28,
+    "Edge": 45,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 55,
+    "author": "Johnson & Johnson",
+    "C": "",
+    "Node": 28,
+    "Edge": 44,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 56,
+    "author": "Lawrence Livermore National Laboratory",
+    "C": "",
+    "Node": 28,
+    "Edge": 9,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 57,
+    "author": "Merck",
+    "C": "",
+    "Node": 28,
+    "Edge": 33,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 58,
+    "author": "Nanjing Tech",
+    "C": "",
+    "Node": 28,
+    "Edge": 36,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 59,
+    "author": "Pfizer",
+    "C": "",
+    "Node": 28,
+    "Edge": 15,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 60,
+    "author": "Prozomix",
+    "C": "",
+    "Node": 28,
+    "Edge": 23,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 61,
+    "author": "Relay Therapeutics",
+    "C": "",
+    "Node": 28,
+    "Edge": 18,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 62,
+    "author": "Tonix Pharmaceuticals",
+    "C": "",
+    "Node": 28,
+    "Edge": 32,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 63,
+    "author": "Enamine",
+    "C": "",
+    "Node": 29,
+    "Edge": 22,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 29,
+    "Edge": 2,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 29,
+    "Edge": 27,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 29,
+    "Edge": 17,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 30,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 31,
+    "Edge": 28,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 31,
+    "Edge": 17,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 31,
+    "Edge": 28,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 31,
+    "Edge": 33,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 31,
+    "Edge": 40,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 31,
+    "Edge": 5,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 32,
+    "Edge": 1,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 32,
+    "Edge": 28,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 33,
+    "Edge": 28,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 33,
+    "Edge": 31,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 34,
+    "Edge": 42,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 35,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 36,
+    "Edge": 47,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 36,
+    "Edge": 10,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 36,
+    "Edge": 1,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 37,
+    "Edge": 38,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 38,
+    "Edge": 37,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 39,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 40,
+    "Edge": 31,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 40,
+    "Edge": 17,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 41,
+    "Edge": 28,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 42,
+    "Edge": 11,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 42,
+    "Edge": 21,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 42,
+    "Edge": 34,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 43,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 44,
+    "Edge": 28,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 45,
+    "Edge": 1,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 45,
+    "Edge": 2,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 45,
+    "Edge": 28,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 46,
+    "Edge": 0,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 47,
+    "Edge": 36,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 4,
+    "Edge": 51,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 4,
+    "Edge": 52,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 6,
+    "Edge": 51,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 47,
+    "Edge": 52,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 9,
+    "Edge": 49,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 12,
+    "Edge": 61,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 17,
+    "Edge": 49,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 18,
+    "Edge": 49,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 19,
+    "Edge": 3,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 19,
+    "Edge": 55,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 22,
+    "Edge": 54,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 26,
+    "Edge": 50,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 26,
+    "Edge": 56,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 28,
+    "Edge": 57,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 28,
+    "Edge": 59,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 28,
+    "Edge": 60,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 28,
+    "Edge": 63,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 29,
+    "Edge": 48,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 29,
+    "Edge": 62,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 35,
+    "Edge": 48,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 40,
+    "Edge": 2,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 40,
+    "Edge": 48,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 40,
+    "Edge": 49,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 40,
+    "Edge": 53,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 46,
+    "Edge": 49,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 46,
+    "Edge": 58,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 19,
+    "Edge": 53,
+    "F": "",
+    "G": ""
+  },
+  {
+    "id": 0,
+    "author": "",
+    "C": "",
+    "Node": 43,
+    "Edge": 59,
+    "F": "",
+    "G": ""
+  }
+]
